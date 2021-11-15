@@ -35,8 +35,8 @@ Coding guidance: Combine "clean, object-oriented code" with "working software".
 
 What would you do if you had more time? Which trade-offs did you take?
 
-* FILL-ME 1
-* FILL-ME 2
+* I would write more test case. I also want to run my test classes for different csv files. I could add more comment lines to better understand
+* I prioritized run the code instead of complexity
 
 
 Have fun!
